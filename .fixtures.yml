@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    orchestrate_helper: "#{source_dir}"
